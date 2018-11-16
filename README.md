@@ -1,2 +1,3 @@
-# udacity-dl-nd-project-4-gan
-Generate Faces using GANs
+# Udacity Deep Learning Nanodegree Project 4: Generate Faces
+
+In this repository, I've used and implemented Deep Convolutional Generative Adversarial Networks(DCGAN) to generate faces from CelebA Dataset.
